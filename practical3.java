@@ -23,8 +23,8 @@ import java.util.ArrayList;
 				wordsEndingWithED.add(word);
 			}
 		}
-		System.out.println("Words starting with 'b':"+wordsStartingWithB);
-		System.out.println("Words ending with'ED':"+wordsEndingWithED);
+		System.out.println("Words starting with 'b': "+wordsStartingWithB);
+		System.out.println("Words ending with'ED': "+wordsEndingWithED);
 	}
 }
 
