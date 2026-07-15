@@ -12,7 +12,7 @@ import java.util.ArrayList;
 		{
 			if(word.toLowerCase().startsWith("b"))
 			{
-				wordsStartingWithB.add(word);
+				 wordsStartingWithB.add(word);
 			}
 		}
 		ArrayList<String>wordsEndingWithED = new ArrayList<>();
