@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.util.ArrayList;
  class practical3 {
-	public static void main(String[] args)
+	public static void main(String args[])
 	{
 		Scanner scanner=new Scanner(System.in);
 		System.out.println("Enter a line text:");
